@@ -1,7 +1,7 @@
 pangram = "The quick brown fox jumps over the lazy dog."
 perfect_pangram = "Mr Jock, TV quiz PhD, bags few lynx."
 not_pangram = "Hello, I am Mr. Kramlich!"
-
+print(pangram + perfect_pangram)
 
 #removes all things but the characters a-zip
 def removeStuff(str1):
